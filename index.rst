@@ -1,24 +1,17 @@
-Charmed OpenStack
-=================
+Integrated solution stacks 
+==========================
 
+A testing playground
+--------------------
 
-What is it?
------------
+This website is a playground for testing different PoCs related to the idea of creating integrated solution stacks.
 
+* :doc:`Charmed OpenStack <charmed-openstack/index>`
+* :doc:`Robotics <robotics/index>`
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
 
-What it isn't?
---------------
-
-
-Why use it?
------------
-
-
-How to use it?
---------------
-
-
-How to get help?
-----------------
-
+   Charmed OpenStack <charmed-openstack/index> 
+   Robotics <robotics/index>
